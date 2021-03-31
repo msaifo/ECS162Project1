@@ -1,0 +1,30 @@
+img {
+  width: 100%;
+}
+
+div.imageWrap {
+  width: 200px;
+}
+
+div.tile {
+  background-color: #87d8ec;
+  width: 250px;
+  padding: 10px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  
+}
